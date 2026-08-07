@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-I'm **Abubakaraabii786**, a passionate developer interested in **Data Science**, **Machine Learning**, and **Natural Language Processing**.
+I'm **Muhammad Abu bakar**, a passionate developer interested in **Data Science**, **Machine Learning**, and **Natural Language Processing**.
 
 ---
 
