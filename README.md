@@ -20,7 +20,7 @@ I'm dedicated to building intelligent solutions and exploring the fascinating wo
 
 ## 💼 Professional Summary
 
-I am a results-driven developer with a strong foundation in artificial intelligence and machine learning. I specialize in developing end-to-end solutions for complex data problems, with expertise in building robust ML pipelines, conducting exploratory data analysis, and deploying production-ready applications. Passionate about leveraging cutting-edge technologies to solve real-world challenges and drive meaningful insights from data.
+I am a results-driven developer with a strong foundation in artificial intelligence and machine learning. I specialize in developing end-to-end solutions for complex data problems, with expertise [...]
 
 ---
 
@@ -73,6 +73,17 @@ I am a results-driven developer with a strong foundation in artificial intellige
 - Data Visualization Tools
 - Cloud Platforms (AWS basics)
 - Linux/Unix Environment
+
+### **Salesforce Skills**
+- Salesforce Administration
+- Salesforce Development (Apex, Visualforce)
+- Lightning Web Components (LWC)
+- SOQL & SOSL Queries
+- Salesforce Configuration
+- Sales Cloud & Service Cloud
+- Salesforce Process Automation (Flows, Process Builder)
+- Salesforce Security & Data Management
+- Salesforce Integrations & APIs
 
 ---
 
@@ -190,7 +201,8 @@ I'm continuously exploring and mastering:
 
 - **Foundation:** Machine Learning, Data Science, Python Programming
 - **Specializations:** NLP, Audio Processing, Deep Learning
-- **Certifications:** [Add any relevant certifications]
+- **Certifications:** 
+  - ✅ Microsoft AI Fundamentals
 - **Continuous Learning:** Regular participation in Kaggle competitions, online courses, and technical workshops
 
 ---
@@ -254,7 +266,7 @@ Feel free to reach out to me for collaborations, discussions, or inquiries:
 
 ## 💬 Fun Fact
 
-I'm passionate about understanding human emotions through technology, especially through speech and audio analysis! There's something fascinating about how machines can learn to recognize the subtle nuances of human emotion—it's at the intersection of psychology, signal processing, and artificial intelligence. I believe this technology has immense potential for healthcare, mental wellness, and human-computer interaction.
+I'm passionate about understanding human emotions through technology, especially through speech and audio analysis! There's something fascinating about how machines can learn to recognize the sub[...]
 
 ---
 
