@@ -280,6 +280,9 @@ I'm passionate about understanding human emotions through technology, especially
 
 ---
 
+## 🎯 Research Publications
+- href="https://www.researchgate.net/profile/Muhammad-Abu-Bakar-Ilyas">Muhammad Abu Bakar Ilyas on ResearchGate</a>
+
 **Last Updated:** December 2025
 **Status:** Actively Developing & Learning
 
